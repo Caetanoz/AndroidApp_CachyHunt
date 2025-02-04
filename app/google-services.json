@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "915299927567",
+    "project_id": "cachyhunt",
+    "storage_bucket": "cachyhunt.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915299927567:android:8da0be289199fb60e9457a",
+        "android_client_info": {
+          "package_name": "pt.ipp.estg.cachyhunt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDhdOrhX4K2Y8fpefW47cYESqdYrIGplg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
